@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=logo.ico --add-data="logo.ico;." AutoMouse.py
